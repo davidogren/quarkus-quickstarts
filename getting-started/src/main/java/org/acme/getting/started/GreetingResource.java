@@ -8,6 +8,7 @@ import javax.ws.rs.core.MediaType;
 
 import org.jboss.resteasy.annotations.jaxrs.PathParam;
 
+//Hello
 @Path("/hello")
 public class GreetingResource {
 
